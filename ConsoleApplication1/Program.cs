@@ -22,7 +22,7 @@ namespace ConsoleApplication1
                               2 * Math.Tan(2 * a) +
                              1.6 * Math.Log10(Math.Pow(x, 2));
             Console.WriteLine("Для х = {0} і  alfa = {1}", x, a);
-            Console.WriteLine("Результат = " + y+"новий");
+            Console.WriteLine("Результат = " + y+" новий результат");
             Console.ReadKey();
         }
     }
