@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main()
         {
             string buf;
-            Console.WriteLine("Введіть  x: ");
+            Console.WriteLine("Введіть значення x: ");
             buf = Console.ReadLine();
             double x = Convert.ToDouble(buf);
             Console.WriteLine("Введіть alfa: ");
